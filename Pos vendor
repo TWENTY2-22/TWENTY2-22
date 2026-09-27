@@ -1,0 +1,19 @@
+# Feature Updates: POS System
+
+## Feature 1: Vendor Management Portal
+- **Description:** A centralized dashboard within the POS system that gives each vendor their own login to view and manage information relevant to their supply relationship with the business, rather than relying on emails or spreadsheets.
+- **Key Functionality:**
+  - Vendors can view current stock levels of the products they supply, so they know when a restock may be needed.
+  - Purchase orders are automatically generated and sent to vendors when inventory drops below a set threshold, reducing manual follow-up.
+  - Vendors can log in to check invoice status, delivery schedules, and payment history without contacting staff directly.
+  - The system keeps a searchable record of vendor contact details, contract terms, and performance history (e.g. delivery reliability, pricing consistency) in one place.
+  - **Relevance to the system:** This reduces the time staff spend chasing vendors for updates, prevents stockouts caused by missed reorder points, and gives the business clear data to evaluate which vendors are most reliable.
+
+## Feature 2: Vendor Performance Reporting
+- **Description:** A reporting tool that tracks and analyzes how well each vendor is performing over time, based on data the POS system already collects during normal operations.
+- **Key Functionality:**
+  - Automatically logs delivery times against expected delivery windows to calculate an on-time delivery percentage per vendor.
+  - Tracks pricing changes from each vendor over time, flagging unusual price increases.
+  - Generates reports showing which vendors are tied to the most sales/revenue, helping prioritize relationships that matter most.
+  - Sends automatic alerts if a vendor's performance drops below an acceptable threshold (e.g. repeated late deliveries).
+  - **Relevance to the system:** This turns raw transaction data into actionable insight, helping the business make informed decisions about which vendors to keep, renegotiate with, or replace — directly supporting the "Vendor Relations" side of the module.
